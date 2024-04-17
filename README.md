@@ -3,13 +3,17 @@
 
 - 🔭 I’m currently working on **FRONTEND WEBDEV**
 
-- 🌱 I’m currently learning **Master of Computer Application,Angular,React.JS,Python,HTML,Javascript,CSS,**
+- 🌱 I’m currently pursuing **Master of Computer Application.
+  
+- ✨Learning **Angular, Typescript, React.JS, REST API, Python, HTML, Javascript, CSS,**
+
+- 🎉Tools using **POSTMAN, ORACLE, FIGMA**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
 - 🤝 2022 Goals: **Establish creative Web Dev projects**
 
-- 💬 Ask me about **HTML,CSS,Angular,Python**
+- 💬 Ask me about **HTML, CSS, Javascript, Angular, Python**
 
 - 📫 How to reach me **anishsunil2001@gmail.com**
 

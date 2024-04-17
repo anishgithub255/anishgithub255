@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anish Sunil</h1>
 <h3 align="center">A passionate Software Aspirant</h3>
 
-- 🔭 I’m currently working on **Python program**
+- 🔭 I’m currently working on **FRONTEND WEBDEV**
 
-- 🌱 I’m currently learning **Bachelor of Computer Science,Python,Java**
+- 🌱 I’m currently learning **Master of Computer Application,Angular,React.JS,Python,HTML,Javascript,CSS,**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 🤝 2022 Goals: **Establish creative python projects**
+- 🤝 2022 Goals: **Establish creative Web Dev projects**
 
-- 💬 Ask me about **Python,Java,MySQl**
+- 💬 Ask me about **HTML,CSS,Angular,Python**
 
 - 📫 How to reach me **anishsunil2001@gmail.com**
 
